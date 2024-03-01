@@ -28,7 +28,7 @@ This Jupyter Notebook generates and visualizes a hops graph based on user input.
 
 Here is an example of a hops graph visualization when entering '2':
 
-![Hops Graph Example](example_graph.png)
+![Hops Graph Example](graph.png)
 
 ## Contributors
 
